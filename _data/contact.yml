@@ -8,10 +8,6 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
   url: 'https://bsky.app/profile/dustin-mullaney.bsky.social '
