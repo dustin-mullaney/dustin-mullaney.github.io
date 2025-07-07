@@ -37,7 +37,7 @@ At Muir, Emily said she was feeling the altitude, but that this was pretty norma
 
 I’d been to Muir 4 times prior at this point, but those first steps onto the Glacier were uncharted territory for me, and the magnitude of what we were doing began to set in. Everything on this mountain is huge — it’s nearly incomprehensible for a mind accustomed to Colorado’s comparatively smaller, non-glaciated mountains. I’d studied the route quite a bit and thought I had an idea about how each section would feel, but I was surprised by how long it felt to walk from Muir to the Ingraham flats. Such a short distance on the map felt like quite the traverse in real life. Similarly, the Seracs on the Ingraham were much larger than they’d looked in photos. As the turned around climbers warned, it was indeed windy, which also upped the feeling of exposure. We were in big kid terrain, and it was time to focus.
 
-![Desktop View](assets/post_media/2025-07-06_Tahoma_Fuhrer_Finger/03__roped.jpg)
+![Desktop View](assets/post_media/2025-07-06_Tahoma_Fuhrer_Finger/03_roped.jpg)
 _We're moutaineering now!_
 
 Fortunately, Emily’s stomach was turning around, and we were able to make efficient work of the lower portion of the Ingraham exposed to the seracs. We were lucky to be able to follow an excellent route set by the guide companies — they’d even left pickets for a running belay through the steep sections. This allowed us to pick up momentum, and soon we’d made it through the exposed section and paused just above Gibaltar rock where we regrouped and had a snack. We’d encountered another two skiers who had turned around due to wind, but personally I was gaining confidence in our group and found this less unsettling that the first party. We had a bootpack and wands to follow, and the summit felt within reach. It was time to put our heads down and grind it out.  
@@ -105,6 +105,6 @@ _Done!_
 We had some snacks and bubbly water back at the parking lot, and by 5pm I was heading back to Seattle. It was a Monday, and I’d snuck away from the lab and skipped my afternoon class, so I couldn’t soak things in for too long. Driving home I felt an interesting mix of emotions — a part of me didn't want to set foot on a glacier again for a long time, but at the same time, I couldn't help from glancing at the mountain over my shoulder as I drove, dreaming about the other ski lines. The Kautz, Edmunds Headwall, and Mowhich Face, each looming prominently above my drive home, had all felt out of reach, but now having been to the summit I couldn't help but wonder what else I could ski up there. 
 
 
-![Desktop View](assets/post_media/2025-07-06_Tahoma_Fuhrer_Finger/15_the_line.jpg)
+![Desktop View](assets/post_media/2025-07-06_Tahoma_Fuhrer_Finger/15_line.jpg)
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14390043989" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
