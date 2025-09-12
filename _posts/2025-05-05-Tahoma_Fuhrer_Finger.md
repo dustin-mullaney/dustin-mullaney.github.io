@@ -7,8 +7,6 @@ description: Skiing the classic Fuhrer Finger on Tahoma
 image: assets/post_media/2025-05-05_Tahoma_Fuhrer_Finger/00_preview.jpg
 ---
 
-# Tahoma (Mt. Rainier) - Ingraham Direct to Fuhrer Finger, May 5th 2025
-
 ### Intro
 
 In February of 2018, I arrived in Washington for what would be my last IFSA Freeride competition at Crystal Mountain. After 5 years of driving  up and down I-70 twice a week for training with my club ski team all winter, I was largely burned out on skiing, and lacking motivation to compete well. I was slowly realizing that I was better suited for endurance sport, and my mediocre comp skiing only confirmed that notion. Though I was ready to move on from freeride and prioritize my running, the trip planted a seed that would come to shape my life 6 years later. 
