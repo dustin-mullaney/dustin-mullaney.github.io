@@ -29,13 +29,13 @@ My race plan hinged a lot on who showed up. If I had to race any heavy hitters l
 
 ### The race
 
-![The Start](assets/post_media/2025-North_Bend_Trail_Fest_30k/01_start.jpg)_The start_
+![The Start](assets/post_media/2025-10-12-North_Bend_Trail_Fest_30k/01_start.jpg)_The start_
 
 The sun had risen for the start, but the rain clouds kept it surprisingly dark, and a low cloud sat ominously over Mt. Si, obscuring the summit. I quickly found myself at the front of the pack on the gravel path, which surprised me. James Stadler, who I met at Dark Divide bridged up to me, and we took things out in a reasonable but uptempo 5:47 for the first mile. As we got onto the trail, Justin Daniels, who I shared miles with on Mt. Si last year caught me, and in the first rock garden he took the lead from me and really picked up the pace. This caught me off guard, I thought I was setting an aggressive pace for the climb, but I was excited to have someone keen to get after it so I chased after him. He kept ratcheting up the pace, eventually to beyond what I felt was sustainable. As he started to drop me I noticed his shoe was untied–sure enough, he had just been trying to get some breathing room so he could stop and tie his shoe. I passed him back as he was stopped, and he quickly jumped on my tail. This time though, he seemed content to let me lead, which I was happy to do.  
 
 I knew several of the fast guys who ended up turning out for the race. I felt like I was probably the strongest on steep climbs, but Justin is an aerobic monster (both on foot and on the bike), and has been crushing all summer, and James and Michael Schneider are both fast track guys–I was nervous about going out too hard, especially with my plan to push hard late in the race, but I decided it was probably best to take any time I could get on this first climb. I locked into an effort slightly less intense than threshold, and found a rhythm. Soon, the elastic between Justin and I snapped, and I started building a gap. I resisted the urge to push extra hard, refrained from looking over my shoulder, and just ran my own pace, letting the gap build slowly. Experience on the course was already benefitting me, I think I paced the first climb perfectly because I could settle into a familiar rhythm knowing exactly what was ahead. 
 
-![Topping out on Old Si](assets/post_media/2025-North_Bend_Trail_Fest_30k/02_Si.jpg)_Topping out on Old Si_
+![Topping out on Old Si](assets/post_media/2025-10-12-North_Bend_Trail_Fest_30k/02_Si.jpg)_Topping out on Old Si_
 
 I split 44:00 on the Old Si segment, 1:15 off my PR from a workout in August but 1:28 faster than when I raced the hillclimb last year. I was slightly worried about the cold–the summit was socked in with fog, and I got completely soaked by all of the wet bushes along the trail–but I felt great and knew I had things under control. Coming off the climb, I took the brief descent over to the Teneriffe trail aggressively, which my legs handled well. Beginning the traverse over Teneriffe I committed to keeping things aggressive. I told myself that  if I could build a gap to the top of Teneriffe, I probably had the race in the bag.
 
@@ -45,7 +45,7 @@ After the turnaround, I continued pushing on the upper part of the descent, but 
 
 Well, I may have let my mind go a little too blank–I clipped a rock with my toe and got launched into a superman dive. Fortunately I managed to get my right foot back under me and didn’t land too hard, but my left knee took a hit. I managed to spring back up and get right back into my stride, but it was a reminder that I did not in fact have the race in the bag. This was trail running afterall, and I’d need to stay on my feet to take the win. With renewed focus, I continued pushing onto the switchbacks. 
 
-![The Descent](assets/post_media/2025-North_Bend_Trail_Fest_30k/03_Descent.jpg)_Descending  fast, bit of blood was spilled_
+![The Descent](assets/post_media/2025-10-12-North_Bend_Trail_Fest_30k/03_Descent.jpg)_Descending  fast, bit of blood was spilled_
 
 Next, I proceeded onto the new portion of the course, the cut over to Teneriffe falls trail. The switchbacks below the falls are not steep, but it’s entirely scree, which was extra difficult in the rain. I had flagged this section in my head, and I was mentally prepared to stay focused and keep things moving here. I don’t think this is a section where you can gain a lot of time, but it’s definitely a section where you could lose a lot of time if you rolled an ankle and lost momentum or something. I kept it together and made it through this section pretty well. Following the techy section there’s a long and pretty flat loop around, which I kept things aggressive on but also took the opportunity to mentally regroup before the last climbing section. 
 
@@ -53,11 +53,11 @@ New to the course this year was an 800 foot climb up the lower part of Teneriffe
 
 I kept the pace respectable for the final portion of the descent down the boulder garden and onto the little Si trail, but definitely slowed things down and took less risk. The last thing I needed was to roast my ankle with 2 miles to go. At this point I could really appreciate what a special run I’d had. Last year, I was essentially crawling it at the end of the race on totally blown out legs. I simply didn’t have the strength and fitness to handle running that fast for that long. This year, I was running much faster and I felt totally in control for the entire distance. I know how rare it is for things to line up like that in running so when I got onto the final flat mile back to town I really tried to soak in the feeling. 
 
-![The Finish](assets/post_media/2025-North_Bend_Trail_Fest_30k/04_Finish.jpg)_Celebrating at the finish with Scott_
+![The Finish](assets/post_media/2025-10-12-North_Bend_Trail_Fest_30k/04_Finish.jpg)_Celebrating at the finish with Scott_
 
 At the finish Scott Sowle, the race director, greeted me with a high five, hug, and very kind words on the megaphone. It was nice chatting with Scott, he puts such a tremendous amount of work into this race and his vert running series, which is such an amazing service to the PNW running community. I really hope to see this race and series continue to grow! Soon my competitors (/friends) began rolling in. After sitting for a bit after the finish, I was headed towards hypothermia. I attempted to warm up with some hot apple cider they had at the finish, then had to sit in my car with the heat on. Eventually I warmed up enough to go hang out with people and attend the awards.  It was awesome sharing the podium with Micheal, who I’d run some miles with this summer, and Justin, who I met racing in North Bend last year. 
 
-![The podium](assets/post_media/2025-North_Bend_Trail_Fest_30k/05_podium.jpg)_Sharing the podium with a good crew_
+![The podium](assets/post_media/2025-10-12-North_Bend_Trail_Fest_30k/05_podium.jpg)_Sharing the podium with a good crew_
 
 Overall, this was one of the best races I’ve ever had, and a great experience shared with a lot of friends and the broader Washington running community. I am super stoked for more racing and to try and defend my title next year!
 
