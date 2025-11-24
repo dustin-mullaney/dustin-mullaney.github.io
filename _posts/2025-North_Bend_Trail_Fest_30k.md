@@ -1,11 +1,10 @@
 ---
 title: 2025 North Bend Trail Fest 30K
-date: 2025-11-23 00:00:00
+date: 2025-11-23 00:00:01
 categories: [Running]
 tags: [race report]
 description: Race Report from the North Bend Trail Fest on October 12th 2025
 image: assets/post_media/2025-North_Bend_Trail_Fest_30k/00_preview.jpg
-published: true
 ---
 
 ### Intro
