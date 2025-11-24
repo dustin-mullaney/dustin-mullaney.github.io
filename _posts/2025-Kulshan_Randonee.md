@@ -1,9 +1,0 @@
----
-title: 2025 Kulshan Randonee
-# date: 2025-10-12 00:00:00
-categories: [Skiing]
-tags: [race report]
-description: 
-image: assets/post_media/2025_Kulshan_Randonee/00_preview.jpg
-published: false
----
