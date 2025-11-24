@@ -3,7 +3,7 @@ title: Tahoma (Mt. Rainier) - Ingraham Direct to Fuhrer Finger, May 5th 2025
 date: 2025-06-01 00:00:01
 categories: [Skiing]
 tags: [trip report]
-description: Skiing the classic Fuhrer Finger on Tahoma 
+description: Skiing the classic Fuhrer Finger on Tahoma (May 5th 2025)
 image: assets/post_media/2025-05-05_Tahoma_Fuhrer_Finger/00_preview.jpg
 ---
 
